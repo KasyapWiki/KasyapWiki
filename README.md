@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KasyapWiki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...OCR
+- 🌱 I’m currently learning ... python 
+- 💞️ I’m looking to collaborate on ... WIKI Projects
 - 📫 How to reach me ...  kasyap.p@gmail.com
 
 <!---
